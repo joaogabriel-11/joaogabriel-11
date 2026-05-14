@@ -27,15 +27,6 @@ Desenvolvedor Full-Stack com foco em aplicações modernas com **Next.js** e **T
 
 Atualmente cursando **ADS no IFSP** (5º semestre), com contato a conceitos de IoT e arquitetura de sistemas.
 
-```typescript
-const joao = {
-  foco:        ["Next.js", "TypeScript", "Node.js"],
-  aprendendo:  ["Docker avançado", "Arquitetura de sistemas", "IoT"],
-  trabalhando: "Projetos Full-Stack com autenticação e banco relacional",
-  contato:     "joaogabriel9918@gmail.com"
-};
-```
-
 ---
 
 ## Stack Tecnológica
@@ -64,17 +55,6 @@ const joao = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**chronos-pomodoro**](https://github.com/joao9918/chronos-pomodoro) | Timer Pomodoro para gestão de foco e produtividade | TypeScript · React |
-| [**the-blog-next-react**](https://github.com/joao9918/the-blog-next-react) | Blog com SSR, Server Actions e roteamento dinâmico | Next.js · TypeScript |
-| [**portfolio-react**](https://github.com/joao9918/portfolio-react) | Portfólio pessoal com seções de projetos e contato | TypeScript · React |
-| [**project-stranger-things**](https://github.com/joao9918/project-stranger-things) | Projeto temático interativo | HTML · CSS · JS |
 
 ---
 
