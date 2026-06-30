@@ -13,9 +13,9 @@
 
 *5º Semestre — Análise e Desenvolvimento de Sistemas · IFSP*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao9918)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-react-joao9918.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-joao9918-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao9918)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaogabriel11)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joao-santos-portfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-joao9918-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaogabriel-11)
 
 </div>
 
@@ -55,18 +55,6 @@ Atualmente cursando **ADS no IFSP** (5º semestre), com contato a conceitos de I
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## Estatísticas GitHub
-
-<div align="center">
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joao9918&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
